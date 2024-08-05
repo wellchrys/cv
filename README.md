@@ -7,3 +7,5 @@ My name is Wellington Chrystian, I am a developer!
 - Technologies: Elixir, Node, React, TypesScript
 
 "My nickname is Well or Chrys"
+
+[Gist](https://gist.github.com/wellchrys)
